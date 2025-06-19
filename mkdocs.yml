@@ -49,14 +49,3 @@ nav:
   - Pokédex: pokedex.md
   - Consejos: consejos.md
 
-# Repository
-repo_name: taller-04
-repo_url: https://github.com/tuusuario/taller-04
-
-# Copyright
-copyright: Copyright &copy; 2025 - Documentación Pokémon Esmeralda
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/tuusuario/taller-04
